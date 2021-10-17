@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EmOzE4tLT5iQzoDc30gAkcn+wknV8hdMv3ecT4Q4eMEL1lcTuaORHAEYJl9/UAJGd4bxkJo4gs/LB4Ef2QUKwA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rassv\\source\\repos\\Fractal\\Fractal\\Fractal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rassv\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
