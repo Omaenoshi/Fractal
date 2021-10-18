@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\rassv\\.nuget\\packages\\": {}
+    "C:\\Users\\Максим.DESKTOP-NKDFPI1\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rassv\\source\\repos\\Fractal\\Fractal\\Fractal.csproj",
+      "projectUniqueName": "C:\\Users\\Максим.DESKTOP-NKDFPI1\\Downloads\\Fractal-main\\Fractal-main\\Fractal\\Fractal\\Fractal.csproj",
       "projectName": "Fractal",
-      "projectPath": "C:\\Users\\rassv\\source\\repos\\Fractal\\Fractal\\Fractal.csproj",
-      "packagesPath": "C:\\Users\\rassv\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rassv\\source\\repos\\Fractal\\Fractal\\obj\\",
+      "projectPath": "C:\\Users\\Максим.DESKTOP-NKDFPI1\\Downloads\\Fractal-main\\Fractal-main\\Fractal\\Fractal\\Fractal.csproj",
+      "packagesPath": "C:\\Users\\Максим.DESKTOP-NKDFPI1\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Максим.DESKTOP-NKDFPI1\\Downloads\\Fractal-main\\Fractal-main\\Fractal\\Fractal\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\rassv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Максим.DESKTOP-NKDFPI1\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[3.1.13, 3.1.13]"
+            "version": "[3.1.18, 3.1.18]"
           }
         ],
         "frameworkReferences": {
@@ -69,7 +69,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
       }
     }
   }

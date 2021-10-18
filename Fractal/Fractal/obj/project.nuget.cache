@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "EmOzE4tLT5iQzoDc30gAkcn+wknV8hdMv3ecT4Q4eMEL1lcTuaORHAEYJl9/UAJGd4bxkJo4gs/LB4Ef2QUKwA==",
+  "dgSpecHash": "XGdreCG28TTINxGz2mLPEgjfcvKOT8KbBErFqtft145+1SXyicjIFAF2eiN0rau9+kvMiLMwB+WUCnrP4crNBA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rassv\\source\\repos\\Fractal\\Fractal\\Fractal.csproj",
+  "projectFilePath": "C:\\Users\\Максим.DESKTOP-NKDFPI1\\Downloads\\Fractal-main\\Fractal-main\\Fractal\\Fractal\\Fractal.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\rassv\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+    "C:\\Users\\Максим.DESKTOP-NKDFPI1\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
   ],
   "logs": []
 }

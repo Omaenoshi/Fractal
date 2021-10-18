@@ -27,6 +27,7 @@ namespace Fractal
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
+            Field.Children.Clear();
             Draw(Int32.Parse(NumberCount.Text));
         }
 
@@ -38,7 +39,6 @@ namespace Fractal
             y1 = 200;
             x2 = 390;
             y2 = 200;
-            count = 15;
 
             DragonFunction(x1, y1, x2, y2, count);
         }
